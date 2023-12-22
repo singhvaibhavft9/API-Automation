@@ -286,7 +286,7 @@ public class PostUsers {
 	
 	
 	@Test
-	public void validatePostWithResponsePOJOAsListObject() {   //pojo with list of objects
+	public void validatePostWithResponsePOJOAsListObjectComplex() {   //pojo with list of objects
         // Set base URI for the API 
                  List<String> Languages = new ArrayList<String>();
                  Languages.add("Java");
